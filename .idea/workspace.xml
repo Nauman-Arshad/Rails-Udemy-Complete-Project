@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1f699fa-208d-4368-9701-7350be88af67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/config/initializers/mail.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/articles_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/articles_controller.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1xfViD3SSVUnaBEB6V6KUYxIYBx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -156,7 +160,7 @@
       <workItem from="1630848794381" duration="414000" />
       <workItem from="1630852990902" duration="2682000" />
       <workItem from="1630861112902" duration="6175000" />
-      <workItem from="1630907676572" duration="5040000" />
+      <workItem from="1630907676572" duration="7034000" />
     </task>
     <servers />
   </component>
