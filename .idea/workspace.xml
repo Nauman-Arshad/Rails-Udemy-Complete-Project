@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1f699fa-208d-4368-9701-7350be88af67" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/devise.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/devise.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/initializers/mail.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/mail.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +160,7 @@
       <workItem from="1630852990902" duration="2682000" />
       <workItem from="1630861112902" duration="6175000" />
       <workItem from="1630907676572" duration="8545000" />
-      <workItem from="1630921058150" duration="1462000" />
+      <workItem from="1630921058150" duration="3748000" />
     </task>
     <servers />
   </component>
