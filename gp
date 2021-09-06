@@ -1,4 +1,4 @@
 git  add -A
-git commit -m "set up production  env for heroku "
+git commit -m " unwrite smtp  "
 git push origin master
 git push heroku master
