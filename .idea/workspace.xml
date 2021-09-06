@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d1f699fa-208d-4368-9701-7350be88af67" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/initializers/mail.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/mail.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gp" beforeDir="false" afterPath="$PROJECT_DIR$/gp" afterDir="false" />
     </list>
@@ -161,7 +164,7 @@
       <workItem from="1630852990902" duration="2682000" />
       <workItem from="1630861112902" duration="6175000" />
       <workItem from="1630907676572" duration="8545000" />
-      <workItem from="1630921058150" duration="4432000" />
+      <workItem from="1630921058150" duration="6586000" />
     </task>
     <servers />
   </component>
