@@ -3,11 +3,13 @@ class ArticlesController < ApplicationController
   before_action :authenticate_user!
   # GET /articles or /articles.json
   def index
-    @articles = Article.all
+    @articles = Article.paginate(page: params[:page], per_page: 2)
+    @last= Article.last(5)
   end
 
   # GET /articles/1 or /articles/1.json
   def show
+    @articles= Article.last(5)
   end
 
   # GET /articles/new
